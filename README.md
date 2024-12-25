@@ -49,24 +49,6 @@ This repository is an educational resource designed to help beginners understand
 
 ---
 
-## How to Use This Repository
-
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/ml-basics.git
-   cd ml-basics
-   ```
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Explore the individual topics in their respective folders. Each folder includes:
-   - **Notebooks**: Interactive Jupyter notebooks with examples and explanations.
-   - **Scripts**: Python scripts for standalone runs.
-   - **Datasets**: Pre-loaded datasets or links to download them.
-
----
-
 ## Prerequisites
 
 - **Basic Python knowledge**: Familiarity with Python programming is assumed.
